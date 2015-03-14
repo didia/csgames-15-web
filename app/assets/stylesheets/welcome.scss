@@ -16,7 +16,9 @@ body{
 	color: black;
 	border-style: solid;
 	border-radius: 5px 5px 5px 5px;
+ 
 }
+
 
 
 .ContainerMain{
@@ -25,13 +27,28 @@ body{
 
  .imagesZombieIndex {
 
+   
+	margin-top :20px;
  	text-align:center;
 	background-image: url(braces_zombie.jpg); 
-	width: 800px;
-	height:800px;
+	width: 750px;
+	height:449px;
 	background-repeat : no-repeat;
-
+	padding-bottom: 10px;
+	margin-bottom:15px;
 
   } 
+  
+  .HandsTogether{
+    	background-image: url(background.jpg); 
+	background-repeat : no-repeat;
+	width: 660px;
+	height:400px;
+	margin-bottom: 15px;
+  }
 
+  a:link{
+      color:white;   
+    }
+  
 
