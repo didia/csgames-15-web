@@ -1,3 +1,37 @@
 // Place all the styles related to the welcome controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+body{
+	
+	background-color:black;
+	color:white;
+}
+
+.loginForm{
+
+	width: 200px;
+	height:120px;
+	background-color: white;
+	color: black;
+	border-style: solid;
+	border-radius: 5px 5px 5px 5px;
+}
+
+
+.ContainerMain{
+	
+}
+
+ .imagesZombieIndex {
+
+ 	text-align:center;
+	background-image: url(braces_zombie.jpg); 
+	width: 800px;
+	height:800px;
+	background-repeat : no-repeat;
+
+
+  } 
+
+
